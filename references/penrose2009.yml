@@ -1,21 +1,14 @@
 
 id: penrose2009
-title: "The Theory of the Growth of the Firm"
-authors:
-  - "Edith Penrose"
+author: "Penrose, E."
 year: 2009
-edition: 4
+title: "The theory of the growth of the firm"
+edition: "4th ed."
 publisher: "Oxford University Press"
-type: "book"
-isbn: 9780199298598
+location: "Oxford"
 tags:
   - t849
-  - rbv
+  - block1
   - firm-growth
-  - strategic-capabilities
-  - classic
-notes: >
-  Foundational work underlying the Resource-Based Theory (RBT).
-  Penrose views the firm as a collection of productive resources with growth
-  limited by managerial capacity and knowledge development.
-  Essential for understanding the historical and conceptual origins of the RBV.
+  - innovation
+  - capabilities

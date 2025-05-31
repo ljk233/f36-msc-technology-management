@@ -1,19 +1,15 @@
 
 id: phaal2004
-title: "Technology roadmapping—A planning framework for evolution and revolution"
-authors:
-  - "Robert Phaal"
-  - "Clare J. Farrukh"
-  - "David R. Probert"
+author: "Phaal, R., Farrukh, C.J.P. and Probert, D.R."
 year: 2004
+title: "Technology roadmapping—A planning framework for evolution and revolution"
 journal: "Technological Forecasting and Social Change"
 volume: 71
-issue: 1
+issue: "1-2"
 pages: "5-26"
-type: "article"
-doi: "10.1016/S0040-1625(03)00072-6"
 tags:
   - tb801
-  - technology-roadmapping
-  - block3
-notes: "Core technique in TB801 Block 3 for planning tech innovation trajectories."
+  - block2
+  - innovation-tools
+  - roadmapping
+  - strategy-alignment

@@ -1,23 +1,15 @@
 
 id: teece1997
-title: "Dynamic Capabilities and Strategic Management"
-authors:
-  - "David J. Teece"
-  - "Gary Pisano"
-  - "Amy Shuen"
+author: "Teece, D.J., Pisano, G. and Shuen, A."
 year: 1997
+title: "Dynamic capabilities and strategic management"
 journal: "Strategic Management Journal"
 volume: 18
 issue: 7
 pages: "509-533"
-type: "journal-article"
-doi: "10.1002/(SICI)1097-0266(199708)18:7<509::AID-SMJ882>3.0.CO;2-Z"
 tags:
   - t849
+  - block1
   - dynamic-capabilities
-  - rbv
-  - innovation-strategy
-notes: >
-  Foundational paper proposing the Dynamic Capabilities framework as an
-  extension of RBV. Emphasizes the importance of sensing, seizing, and transforming
-  capabilities in rapidly changing environments.
+  - strategic-management
+  - innovation

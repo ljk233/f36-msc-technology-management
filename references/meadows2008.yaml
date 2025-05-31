@@ -1,16 +1,13 @@
 
 id: meadows2008
-title: "Thinking in Systems: A Primer"
-authors:
-  - "Donella H. Meadows"
+author: "Meadows, D.H. and Wright, D."
 year: 2008
-edition: -1
+title: "Thinking in systems: A primer"
 publisher: "Chelsea Green Publishing"
-type: "book"
-isbn: "9781603580557"
+location: "White River Junction, VT"
 tags:
   - tb801
-  - systems
-  - evaluation
-  - sustainability
-notes: "Excellent systems-thinking primer, directly useful in TB801 Block 4 and 6."
+  - block3
+  - systems-thinking
+  - ethics
+  - feedback-loops

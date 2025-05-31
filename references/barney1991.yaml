@@ -1,22 +1,15 @@
 
 id: barney1991
-title: "Firm Resources and Sustained Competitive Advantage"
-authors:
-  - "Jay B. Barney"
+author: "Barney, J.B."
 year: 1991
+title: "Firm resources and sustained competitive advantage"
 journal: "Journal of Management"
 volume: 17
 issue: 1
 pages: "99-120"
-type: "article"
-doi: "10.1177/014920639101700108"
 tags:
   - t849
+  - block1
   - rbv
   - strategic-capabilities
-  - block1
-notes: >
-  Foundational article introducing the resource-based view (RBV) of the firm.
-  Establishes the VRIN framework as a lens for evaluating sources of sustained
-  competitive advantage.
-
+  - firm-resources

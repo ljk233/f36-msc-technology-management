@@ -1,16 +1,15 @@
 
 id: chesbrough2003
-title: "Open Innovation: The New Imperative for Creating and Profiting from Technology"
-authors:
-  - "Henry Chesbrough"
+author: "Chesbrough, H.W."
 year: 2003
-edition: -1
-publisher: "Harvard Business Review Press"
-type: "book"
-isbn: "9781422102831"
+title: "Open innovation: The new imperative for creating and profiting from technology"
+publisher: "Harvard Business School Press"
+location: "Boston"
 tags:
+  - t849
   - tb801
   - block2
+  - block3
   - open-innovation
-  - systems
-notes: "Key reading on open innovation systems, aligns with TB801 Block 2."
+  - ecosystems
+  - network
